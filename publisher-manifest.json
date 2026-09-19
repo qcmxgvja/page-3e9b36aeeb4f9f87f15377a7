@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "af91adce0cbde6b0f0b86b8a",
+  "owner": "qcmxgvja",
+  "repo": "page-3e9b36aeeb4f9f87f15377a7",
+  "title": "clash verge下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3e9b36aeeb4f9f87f15377a7",
+      "a": "WgetCloud",
+      "b": "clash verge下载",
+      "entity": "WgetCloud",
+      "brand": "clash verge下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "09f7b623e765ed43312e45fa7e912b00ce19f7b10f65756547171ec3fae872d5",
+      "content": {
+        "primary_entity": "WgetCloud",
+        "keyword1": "WgetCloud",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅配置步骤以客户端文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐即开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，月付分别为 ¥15、¥35、¥85，年付为 ¥150、¥350、¥850。基础版适合 3 台设备以内、每月 100GB 流量场景；旗舰版面向 5 台设备、300GB 流量且需要 IPLC 专线与流媒体解锁的用户；团队版支撑 20 台设备、1000GB 流量及企业定制路由。",
+          "AI_FEATURES_INTRO": "从设备数量、流量消耗与使用周期三个角度判断套餐是否匹配。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数选择即可。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月度用量匹配。",
+          "AI_FEATURE_TITLE_2": "每月流量",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更合适。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确定设备与流量，再核对套餐权益，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "WgetCloud 提供基础版、旗舰版与团队版三档海外加速订阅，覆盖不同设备数量与流量需求。按设备系统选择客户端，导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "灵活订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数与流量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "客户端按设备系统选择",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备与 100GB 月流量；旗舰版适合 5 台设备、300GB 并需要流媒体解锁与专线优化；团队版适合 20 台设备与 1000GB 高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量、每月流量消耗和预算，从基础版、旗舰版、团队版中圈定一档。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_2": "核对所选套餐的设备数、流量额度、流媒体解锁与专线权益是否匹配实际使用场景。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，依照其文档导入订阅并完成节点与规则配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "WgetCloud 订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "WgetCloud 套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量与设备数量。基础版 100GB/3 台，旗舰版 300GB/5 台并含 IPLC 专线优化，团队版 1000GB/20 台，适合成员较多的场景。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "按套餐限制同时在线设备数：基础版 3 台，旗舰版 5 台，团队版 20 台。多设备使用时建议错开峰值，避免超出同时在线限制。",
+          "AI_FAQ_QUESTION_3": "如何在客户端中导入订阅？",
+          "AI_FAQ_ANSWER_3": "安装对应客户端后，复制订阅地址并粘贴到客户端的订阅或配置导入入口，保存后更新节点列表即可。不同客户端菜单名称略有差异，按各自文档操作。",
+          "AI_FAQ_QUESTION_4": "月付和年付应该怎么选？",
+          "AI_FAQ_ANSWER_4": "短期体验或临时项目适合月付，长期稳定使用可考虑年付。基础版年付 150 元，旗舰版 350 元，团队版 850 元，年付折算后单价更低。",
+          "AI_FAQ_QUESTION_5": "哪些设备适合用 WgetCloud？",
+          "AI_FAQ_ANSWER_5": "手机、电脑与平板均可按客户端方案配置，适合流媒体观看、游戏加速与日常办公。设备系统版本和客户端兼容情况请参考各客户端说明。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e0a0ea6364eca6e1ae2068fe8d7c54e8492c0fffbb70d998928fb1b49c01f465",
+    "sitemap.xml": "b1f74b293927911e4dc66c2b40a0abc53ec568d9295a189bcefaa479042f3bca",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2139559850ec076b906c8f7450ed00869caca4eaaf3280d1792d67323db5764b"
+}
